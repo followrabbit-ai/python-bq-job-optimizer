@@ -16,7 +16,7 @@ from rabbit_bq_job_optimizer import RabbitBQOptimizer, OptimizationConfig
 # Initialize the client
 client = RabbitBQOptimizer(
     api_key="your-api-key",
-    base_url="https://api.rabbit.com/v1"  
+    base_url="your-base-url"  
 )
 
 # Optimize a BigQuery job configuration
