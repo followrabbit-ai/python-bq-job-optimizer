@@ -1,0 +1,4 @@
+google-cloud-bigquery
+requests
+pydantic
+rabbit-bq-job-optimizer 
